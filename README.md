@@ -1,3 +1,15 @@
+# My solution for Advent of Vue 2022 - 4 December 2022
+
+## What I learned
+
+- Practicing recursive component rendering
+
+## Possible improvements
+
+- Add christmas decorations
+
+Forked Readme 👇
+
 # Advent Of Vue 2022
 
 ## If you didn't get here from an email, read this section! Skip it otherwise.
